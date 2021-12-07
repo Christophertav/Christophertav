@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Christopher Tavares
-- 👀 I’m interested in v
 - 🌱 I finished the web development bootcamp at Le Wagon
 - 👯 I worked on this cool game : www.lewagon-simulator.me
 - 💞️ I’m looking to collaborate on projects that will be useful to everyone
