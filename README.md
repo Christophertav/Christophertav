@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Christopher Tavares
+- 👋 Hi, I’m Christopher
 - 👯 I worked on this cool game : www.lewagon-simulator.me
 - And many other projects !
 
