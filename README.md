@@ -4,10 +4,6 @@
 
 <img width="350" alt="LWS HOME" src="https://user-images.githubusercontent.com/91496817/145035989-a9141f47-f576-4e2c-8a06-61121a9455b1.PNG">  <img width="350" alt="LWS INTERFACE" src="https://user-images.githubusercontent.com/91496817/145036003-54fb7447-af90-43cf-b03c-060b3518edce.PNG"><img width="350" alt="LWS RECAP" src="https://user-images.githubusercontent.com/91496817/145036018-95720500-504c-4781-b6b8-34f441f8d729.PNG">
 
-- 💞️ I’m looking to collaborate on projects that will be useful to everyone
-- 🔭 I'm looking forward to learn React and Node js
-- 📫 How to reach me : christavares33@gmail.com
-
 <!---
 Christophertav/Christophertav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
